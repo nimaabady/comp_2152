@@ -48,7 +48,6 @@ for minute_list in workout_list:
 
 print(f"Total Yoga and Running Minutes: {total_yoga_minutes}\n")
 
-
 last_2_weightlifting_minutes = 0
 isFirst = True
 for minute_list in workout_list:
